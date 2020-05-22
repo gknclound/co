@@ -1,8 +1,14 @@
 {
 	id:'1',
 	img:['https://gknclound.github.io/co/img/1.jpg'],
-	book:{
-		name:'vue',
-		desc:'Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式JavaScript框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，方便与第三方库或既有项目整合'
-	}
+	book:[
+		{
+			name:'vue',
+			desc:'Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式JavaScript框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，方便与第三方库或既有项目整合'
+		},
+		{
+			name:'angular',
+			desc:'AngularJS 是一个 JavaScript框架。它是一个以 JavaScript 编写的库。它可通过 <script> 标签添加到HTML 页面.AngularJS 通过 指令 扩展了 HTML，且通过 表达式 绑定数据到 HTML。AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中。'
+		}
+	]
 }
