@@ -14,6 +14,16 @@
 				bd:'https://baike.baidu.com/item/AngularJS/7140293?fr=aladdin'
 			},
 			desc:'AngularJS 是一个 JavaScript框架。它是一个以 JavaScript 编写的库。它可通过 <script> 标签添加到HTML 页面.AngularJS 通过 指令 扩展了 HTML，且通过 表达式 绑定数据到 HTML。AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中。'
+<<<<<<< HEAD
+		}
+=======
+		},
+		{
+			name:'react',
+			url:{
+				bd:'https://baike.baidu.com/item/react/18077599?fr=aladdin'
+			},
+			desc:'React主要用于构建UI。你可以在React里传递多种类型的参数，如声明代码，帮助你渲染出UI、也可以是静态的HTML DOM元素、也可以传递动态变量、甚至是可交互的应用组件。'
 		}
 	],
 	html:[],
