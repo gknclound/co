@@ -26,6 +26,7 @@
 	html:[
 		{
 			name:'html基本知识',	
+			img:'https://gknclound.github.io/co/img/timer.jpg',
 			list:[
 				{
 					img:'https://gknclound.github.io/co/img/11.png',
@@ -37,14 +38,17 @@
 		},
 		{
 			name:'html深入知识',
+			img:'https://gknclound.github.io/co/img/timer.jpg',
 			list:[]
 		},
 		{
 			name:'html问答题集合',
+			img:'https://gknclound.github.io/co/img/timer.jpg',
 			list:[]
 		},
 		{
 			name:'html笔试题集合',
+			img:'https://gknclound.github.io/co/img/timer.jpg',
 			list:[]
 		},
 	],
